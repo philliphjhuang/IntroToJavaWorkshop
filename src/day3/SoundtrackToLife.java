@@ -23,7 +23,7 @@ playVideo("bit.ly/video-for-happy");
 if(userMood==1){
 	playVideo("https://www.youtube.com/watch?v=J2X5mJ3HDYE");
 	if(userMood==0){
-		
+		playVideo("https://www.youtube.com")
 	}
 }
 }
